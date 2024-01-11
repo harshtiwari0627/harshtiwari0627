@@ -14,9 +14,13 @@ I am a passionate Computer Science student at Prestige Institute of Engineering 
 
 💼 Experience
 
-Tasaya, Indore — Flutter Developer Intern (Nov 2023 - Present)
+Tasaya, Indore — Software Developer Intern (Nov 2023 - Present)
 
-- Involved in Firebase connection, API handling, Google Sign-in, GetX, and Google Maps integration.
+- Engaged in comprehensive software development, specializing in Flutter, Firebase, API Integration, Google Sign-in, GetX, Google Maps, PHP, and SQL.
+
+Techtwins Technologies, Remote — Software Developer Intern (Nov 2022 - Oct 2023)
+
+- Contributed to software development projects involving Linux, SQL, Flutter, Git, JavaScript, REST APIs, Python, PHP, and AWS.
 
 Techtwins Technologies, Remote — Cyber Security Intern (Jul 2022 - Oct 2022)
 
