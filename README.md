@@ -6,7 +6,7 @@
 
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:harshtiwari0586@gmail.com)
 
-[![Github](https://img.shields.io/github/followers/hejazizo?label=Follow&style=social)](https://github.com/harshtiwari0627)
+[![Github](https://img.shields.io/github/followers/harshtiwari0627?label=Follow&style=social)](https://github.com/harshtiwari0627)
 
 🚀 About Me
 
