@@ -14,7 +14,9 @@ I am a passionate Computer Science student at Prestige Institute of Engineering 
 
 💼 Experience
 
-Tasaya, Indore — Software Developer Intern (Nov 2023 - Present)
+Impetus Technologies India Pvt. Ltd. - Project Trainee (Feb 2024 - Present)
+
+Tasaya, Indore — Software Developer Intern (Nov 2023 - Feb 2024)
 
 - Engaged in comprehensive software development, specializing in Flutter, Firebase, API Integration, Google Sign-in, GetX, Google Maps, PHP, and SQL.
 
